@@ -5,19 +5,7 @@ sections:
     title: Who Senu Gamer Boy
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
-
-
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+    content: "# Hey, I am SenuGamerBoy \n\n*   \U0001F6B6‍ \_ I live in : Sri Lanka \U0001F1F1\U0001F1F0  \n\n*   \U0001F52D I’m currently working on : SenuInfinity  \n\n*   \U0001F46F I’m looking to collaborate :   \n\n*   \U0001F914 I’m looking for help : For  Me  \n\n*   ⚡ Fun fact: I'm just an  Teen \U0001F604\n\n*   \U0001F4EB How to reach me : Telegram\n\n"
   - type: team_section
     title: Our Team
     team:
