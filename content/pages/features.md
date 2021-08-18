@@ -32,7 +32,7 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
-          - label: Learn More
+          - label: Join
             url: /blog
             style: primary
         title: 24/7 Support
