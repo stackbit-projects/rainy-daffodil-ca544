@@ -25,8 +25,7 @@ sections:
           - label: Learn More
             url: 'https://github.com/SenuGamerBoy?tab=repositories'
             style: primary
-      - title: Feature 3
-        content: >-
+      - content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
           ante.
