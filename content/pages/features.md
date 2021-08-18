@@ -23,7 +23,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: 'https://github.com/SenuGamerBoy?tab=repositories'
             style: primary
       - title: Feature 3
         content: >-
