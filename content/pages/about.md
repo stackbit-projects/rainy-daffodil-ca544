@@ -6,14 +6,6 @@ sections:
     align: center
   - type: content_section
     content: "# Hey, I am SenuGamerBoy \n\n*   \U0001F6B6‍ \_ I live in : Sri Lanka \U0001F1F1\U0001F1F0  \n\n*   \U0001F52D I’m currently working on : SenuInfinity  \n\n*   \U0001F46F I’m looking to collaborate :   \n\n*   \U0001F914 I’m looking for help : For  Me  \n\n*   ⚡ Fun fact: I'm just an  Teen \U0001F604\n\n*   \U0001F4EB How to reach me : Telegram\n\n"
-  - type: team_section
-    title: Our Team
-    team:
-      - content/data/team/miles-tone.yaml
-      - content/data/team/dianne-ameter.yaml
-      - content/data/team/eleanor-carr.yaml
-      - content/data/team/hanson-deck.yaml
-      - content/data/team/gordon-norman.yaml
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
