@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: All Our BOts
 seo:
   title: ''
   description: ''
