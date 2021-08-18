@@ -34,13 +34,7 @@
     },
     "footer": {
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Privacy and Terms",
-                "url": "/terms",
-                "style": "link"
-            }
-        ],
+        "nav_links": [],
         "has_social": true,
         "social_links": [
             {
