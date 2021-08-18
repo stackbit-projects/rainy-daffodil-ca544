@@ -33,7 +33,7 @@ sections:
         image_position: right
         actions:
           - label: Join
-            url: /blog
+            url: 'https://t.me/senuinfinitygroup'
             style: primary
         title: 24/7 Support
 seo:
