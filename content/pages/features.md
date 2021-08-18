@@ -13,7 +13,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /about
+            url: 'https://github.com/SenuGamerBoy?tab=repositories'
             style: primary
         title: All Bots Open Source
       - title: "You Can\_Deploy Your Bot Without Coding"
