@@ -37,6 +37,7 @@ sections:
           - label: Learn More
             url: /blog
             style: primary
+        title: '2'
 seo:
   title: Features
   description: This is the features page
