@@ -16,7 +16,7 @@ sections:
             url: /about
             style: primary
         title: All Bots Open Source
-      - title: Feature 2
+      - title: You Can
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
