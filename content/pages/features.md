@@ -37,7 +37,7 @@ sections:
           - label: Learn More
             url: /blog
             style: primary
-        title: '2'
+        title: 24/7 Support
 seo:
   title: Features
   description: This is the features page
