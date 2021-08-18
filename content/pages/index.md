@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome To SenuInfinity
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: "Best Sri Lankan\_\U0001F47B \U0001D682\U0001D692\U0001D697\U0001D690\U0001D695\U0001D68E \U0001D673\U0001D68E\U0001D69F\U0001D68E\U0001D695\U0001D698\U0001D699\U0001D68E\U0001D69B ✌️"
     actions:
       - label: Learn More
         url: /features
